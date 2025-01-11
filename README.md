@@ -1,1 +1,1 @@
-# CNN-Multiclass-V2.1
+# CNN-Multiclass-v2.0
