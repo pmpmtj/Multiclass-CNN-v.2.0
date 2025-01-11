@@ -1,0 +1,2 @@
+I have tested learning_rates and the best result = 1e-4; here it is solved.
+Any other ideas??
